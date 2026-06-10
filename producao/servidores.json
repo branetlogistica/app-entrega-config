@@ -44,6 +44,42 @@
       "legadoServer": "https://concordia.branetlogistica.com.br:3443/doms",
       "serviceServer": "https://service.branetlogistica.com.br/api/msentrega",
       "enabled": true
+    },
+    {
+      "id": 6,
+      "nome": "Florianópolis",
+      "clientId": "fpolis",
+      "authServer": "https://fpolis.branetlogistica.com.br/saudewms/rest/sincronizar/token",
+      "legadoServer": "https://fpolis.branetlogistica.com.br/saudewms",
+      "serviceServer": "https://service.branetlogistica.com.br/api/msentrega",
+      "enabled": true
+    },
+    {
+      "id": 7,
+      "nome": "Joinville",
+      "clientId": "joinville",
+      "authServer": "https://joinville.branetlogistica.com.br:443/doms/rest/sincronizar/token",
+      "legadoServer": "https://joinville.branetlogistica.com.br:443/doms",
+      "serviceServer": "https://service.branetlogistica.com.br/api/msentrega",
+      "enabled": true
+    },
+    {
+      "id": 8,
+      "nome": "Itajaí",
+      "clientId": "itajai",
+      "authServer": "https://itajai.branetlogistica.com.br:3444/doms/rest/sincronizar/token",
+      "legadoServer": "https://itajai.branetlogistica.com.br:3444/doms",
+      "serviceServer": "https://service.branetlogistica.com.br/api/msentrega",
+      "enabled": true
+    },
+    {
+      "id": 9,
+      "nome": "Juiz de Fora",
+      "clientId": "juiz_de_fora",
+      "authServer": "https://juizdefora.branetlogistica.com.br/doms/rest/sincronizar/token",
+      "legadoServer": "https://juizdefora.branetlogistica.com.br/doms",
+      "serviceServer": "https://service.branetlogistica.com.br/api/msentrega",
+      "enabled": true
     }
   ]
 }
