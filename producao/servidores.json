@@ -1,0 +1,49 @@
+{
+  "servidores": [
+    {
+      "id": 1,
+      "nome": "Goiânia",
+      "clientId": "goiania",
+      "authServer": "https://goiania.branetlogistica.com.br:8181/doms/rest/sincronizar/token",
+      "legadoServer": "https://goiania.branetlogistica.com.br:8181/doms",
+      "serviceServer": "https://service.branetlogistica.com.br/api/msentrega",
+      "enabled": true
+    },
+    {
+      "id": 2,
+      "nome": "Balneário Camboriú",
+      "clientId": "balneario_camboriu",
+      "authServer": "https://balneariocamboriu.branetlogistica.com.br:444/saudewms/rest/sincronizar/token",
+      "legadoServer": "https://balneariocamboriu.branetlogistica.com.br:444/saudewms",
+      "serviceServer": "https://service.branetlogistica.com.br/api/msentrega",
+      "enabled": true
+    },
+    {
+      "id": 3,
+      "nome": "Navegantes",
+      "clientId": "navegantes",
+      "authServer": "https://navegantes.branetlogistica.com.br/doms/rest/sincronizar/token",
+      "legadoServer": "https://navegantes.branetlogistica.com.br/doms",
+      "serviceServer": "https://service.branetlogistica.com.br/api/msentrega",
+      "enabled": true
+    },
+    {
+      "id": 4,
+      "nome": "PinhalzinhoSP",
+      "clientId": "pinhalzinho",
+      "authServer": "https://pinhalzinho.branetlogistica.com.br:4443/doms/rest/sincronizar/token",
+      "legadoServer": "https://pinhalzinho.branetlogistica.com.br:4443/doms",
+      "serviceServer": "https://service.branetlogistica.com.br/api/msentrega",
+      "enabled": true
+    },
+    {
+      "id": 5,
+      "nome": "Concórdia",
+      "clientId": "concordia",
+      "authServer": "https://concordia.branetlogistica.com.br:3443/doms/rest/sincronizar/token",
+      "legadoServer": "https://concordia.branetlogistica.com.br:3443/doms",
+      "serviceServer": "https://service.branetlogistica.com.br/api/msentrega",
+      "enabled": true
+    }
+  ]
+}
