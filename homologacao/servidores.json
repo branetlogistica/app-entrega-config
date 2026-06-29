@@ -28,27 +28,9 @@
       "enabled": true
     },
     {
-      "id": 4,
-      "nome": "PinhalzinhoSP",
-      "clientId": "pinhalzinho",
-      "authServer": "https://homologacao.branetlogistica.com.br/doms/rest/sincronizar/token",
-      "legadoServer": "https://homologacao.branetlogistica.com.br/doms",
-      "serviceServer": "https://homologacao.branetlogistica.com.br/api/msentrega",
-      "enabled": true
-    },
-    {
       "id": 5,
       "nome": "Concórdia",
       "clientId": "concordia",
-      "authServer": "https://homologacao.branetlogistica.com.br/doms/rest/sincronizar/token",
-      "legadoServer": "https://homologacao.branetlogistica.com.br/doms",
-      "serviceServer": "https://homologacao.branetlogistica.com.br/api/msentrega",
-      "enabled": true
-    },
-    {
-      "id": 6,
-      "nome": "Florianópolis",
-      "clientId": "fpolis",
       "authServer": "https://homologacao.branetlogistica.com.br/doms/rest/sincronizar/token",
       "legadoServer": "https://homologacao.branetlogistica.com.br/doms",
       "serviceServer": "https://homologacao.branetlogistica.com.br/api/msentrega",
